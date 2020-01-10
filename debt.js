@@ -42,10 +42,14 @@ $skola *= $montly_interest; // Palukanos uz 2018-01
 $skola *= $montly_interest; // Palukanos uz 2018-02
 $skola *= $montly_interest; // Palukanos uz 2018-03
 $skola *= $montly_interest; // Palukanos uz 2018-04
-//$skola *= $montly_interest; // Palukanos uz 2018-05
+$skola *= $montly_interest; // Palukanos uz 2018-05
+
+
+
+$skola -= 20; // return 2019-11-13
+$skola -= 30; // return 2019-12-10
+$skola -= 50;  // return 2020-01-10
 
 //// View
 
 console.log(`\n\nSkola yra ${$skola.toFixed(2)} Euro\n\n` );
-
-
