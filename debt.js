@@ -50,6 +50,7 @@ $skola -= 20; // return 2019-11-13
 $skola -= 30; // return 2019-12-10
 $skola -= 50;  // return 2020-01-10
 $skola -= 30.39;  // return 2020-02-12
+$skola -= 80; // return 03-05
 
 //// View
 
