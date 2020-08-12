@@ -52,6 +52,8 @@ $skola -= 50;  // return 2020-01-10
 $skola -= 30.39;  // return 2020-02-12
 $skola -= 80; // return 03-05
 $skola -= 50; // return 04-23
+$skola -= 44; // return 07-12
+
 
 //// View
 
