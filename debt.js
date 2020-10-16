@@ -54,6 +54,7 @@ $skola -= 80; // return 03-05
 $skola -= 50; // return 04-23
 $skola -= 44; // return 08-12
 $skola -= 50; // return 09-02
+$skola -= 50; // return 10-05
 
 
 //// View
