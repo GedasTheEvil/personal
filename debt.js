@@ -65,6 +65,7 @@ $skola -= 100; // return 2021-05-05
 $skola -= 100; // return 2021-06-03
 $skola -= 100; // return 2021-07-07
 $skola -= 100; // return 2021-08-03
+$skola -= 100; // return 2021-09-02
 
 
 //// View
